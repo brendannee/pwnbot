@@ -6,7 +6,7 @@
         "url": ""
     }
   , "engines": {
-        "node": "v0.4.9"
+        "node": "v0.6.x"
     }
   , "dependencies": {
         "irc": "0.2.1"
