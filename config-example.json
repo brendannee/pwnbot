@@ -1,0 +1,13 @@
+{
+      "server": "irc.freenode.net"
+    , "port": 7000
+    , "secure": true
+    , "nickname": "pwnbot"
+    , "channels": ["#hackerschool"]
+    , "debug": true
+    , "showerrors": true
+    , "selfsigned": true
+    , "prefix": "!"
+    , "floodprotection": true
+    , "wordnik_key": "My Wordnik Key"
+  }
